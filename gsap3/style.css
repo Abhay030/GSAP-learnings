@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Gilroy-Bold;
+    color: #000000;
+    /* font-weight: 800; */
+    font-size:larger;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #000000;
+}
+
+#string{
+    height: 200px;
+    width: 100%;
+    /* background-color: lightskyblue; */
+}
+
+svg{
+    background-color: rebeccapurple;
+}
